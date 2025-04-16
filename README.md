@@ -1,2 +1,0 @@
-# astrbot_plugin_WZL_Template
-astrbot_plugin_WZL_Template
